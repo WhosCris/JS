@@ -32,7 +32,7 @@ jobs:
           CI: true
  
       - name: Run esLint
-        run: npm run eslint
+        run: npm run lint
  
       - name: Run prettier
         run:  npm run prettier
