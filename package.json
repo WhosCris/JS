@@ -8,6 +8,6 @@
   "scripts": {
     "prepare": "husky install",
     "lint": "eslint .",
-    "prettier": " prettier--write ."
+    "prettier": "prettier --write ."
   }
 }
