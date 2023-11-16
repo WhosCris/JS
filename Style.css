@@ -22,6 +22,12 @@ body {
   height: 150px;
   color: violet;
 }
+.encabezado2 {
+  margin: 0;
+  padding: 0;
+  height: 150px;
+  color: violet;
+}
 
 h1 {
   padding: 0;
